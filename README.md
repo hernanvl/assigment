@@ -1,5 +1,5 @@
-### Dashboard Data Visualization in Streamlit  
-# Hernan Vinicio Lopez Morocho  
+# Dashboard Data Visualization in Streamlit  
+## Hernan Vinicio Lopez Morocho  
 
 ## Information  
 Dashboard to show the insights from assignment number 3 of the Data Visualization course.
