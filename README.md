@@ -16,3 +16,5 @@ You can also see the exploratory analysis in the Jupyter notebook.
 - train.csv  
 
 ### Link to access the Streamlit dashboard
+
+https://dashboardhernanlopez.streamlit.app/
