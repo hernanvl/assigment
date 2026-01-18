@@ -101,7 +101,7 @@ selected_workingday = st.sidebar.multiselect(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.info("Select the filter and change the data visualizations")
+st.sidebar.info("When select month, you cannoot select a diferent season")
 
 # DATA FILTERING
 
