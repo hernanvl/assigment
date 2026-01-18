@@ -73,12 +73,6 @@ selected_years = st.sidebar.multiselect(
     default=sorted(df['year'].unique())
 )
 
-# 3: Month 
-selected_months = st.sidebar.multiselect(
-    "Select months",
-    options=sorted(df['month_name'].unique())
-    
-)
 
 # 4: Season
 selected_seasons = st.sidebar.multiselect(
@@ -100,6 +94,12 @@ selected_workingday = st.sidebar.multiselect(
        
 )
 
+# 3: Month 
+selected_months = st.sidebar.multiselect(
+    "Select months",
+    options=sorted(df['month_name'].unique())
+    
+)
 st.sidebar.markdown("---")
 st.sidebar.info("When select month, you cannoot select a diferent season")
 
